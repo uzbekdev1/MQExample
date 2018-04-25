@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Result>
+  <Info_Result_Date>2017-07-09 14:50:59</Info_Result_Date>
+  <Result_ImportData>
+    <ID>15d26c299b9_96a_egtd</ID>
+    <Receive_time>2017-07-09 14:51:13.849</Receive_time>
+    <CustCode>27016</CustCode>
+    <docDate>2017-07-09</docDate>
+    <DocNumber>0003331</DocNumber>
+    <Error></Error>
+  </Result_ImportData>
+  <Result_ImportData>
+    <ID>15d26769ea8_7e90_egtd</ID>
+    <Receive_time>2017-07-09 13:28:14.376</Receive_time>
+    <CustCode>27028</CustCode>
+    <docDate>2017-07-09</docDate>
+    <DocNumber>0002471</DocNumber>
+    <Error></Error>
+  </Result_ImportData>
+</Result>
+ 

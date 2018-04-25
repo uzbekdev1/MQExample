@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info_Main>
+  <Info_Date>2018-03-16</Info_Date>
+  <ImportData>
+    <ExprtData_ID>181187438d2b41d56c73063f2d5d5a77</ExprtData_ID>
+    <Consignee>
+      <Name>Раимов Рустам Кабирович</Name>
+      <Adress>г.Ташкент, Шайхантахурский р-н, ул.Сузук ота, д.32</Adress>
+      <INN>454166577</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>20</BorderTrans_Code>
+      <InternalTrans_Code>20</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0012372</DocNumber>
+    <CustCode>27019</CustCode>
+    <DocDate>2017-09-07</DocDate>
+    <Place_of_inspection>27/0290 от 11.04.2015</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)Лесоматериалы хвойных пород, обрезные из сосны обыкновенной (Pinus sylvestris L), распиленные вдоль, нестроганные, не шлифованные, необтесанные. ГОСТ 8486-86. 1-3 сорт. Влажность 38%. Размеры: длина 4,05 м., толщина 35 мм., ширина 91-188 мм. Объем без припусков - 89,581 м3., объем с припусками - 102,99 м3. - вес: 62650 кг, кол. 102,99 м3, ; 2)26 мест в пакетах;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>62650.0</Amount>
+      <QuantitySupUnit>102.99</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>6dbbee9e374b6b05b7afa2a00446fa16</ExprtData_ID>
+    <Consignee>
+      <Name>Джураев Абдурахим Юлдашевич</Name>
+      <Adress>г. Ташкент, Учтепинский р-н., м-в Чиланзар, Квартал 13, дом. 42А, кв. 3</Adress>
+      <INN>443156871</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>20</BorderTrans_Code>
+      <InternalTrans_Code>20</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0000370</DocNumber>
+    <CustCode>27019</CustCode>
+    <DocDate>2016-09-07</DocDate>
+    <Place_of_inspection>27/0316 от 09.09.2015</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109100</HS_Code>
+      <Name>1)Лесоматериалы обрезной из х/п, нестроганные, ель обыкновенной, длина 4-6м, толщ.23-63мм, ширина 90-200мм, Гост:8486-86, 1-5 сорт,объём без припусков 91,98м3 - вес: 62189,5 кг, кол. 101,95 м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>62189.5</Amount>
+      <QuantitySupUnit>101.95</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>b6d92f6839df0a6a287bf3ea055c020b</ExprtData_ID>
+    <Consignee>
+      <Name>Раимов Даврон Бахром угли</Name>
+      <Adress>город Ташкент, Шайхантохурский район,</Adress>
+      <INN>546991383</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>20</BorderTrans_Code>
+      <InternalTrans_Code>20</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0021214</DocNumber>
+    <CustCode>27020</CustCode>
+    <DocDate>2017-09-07</DocDate>
+    <Place_of_inspection>27/0290 от 11.04.2015</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)Лесоматериалы из х/п, обрезной, нестроганные, сосна обыкновенная "PINUS SYLVESTRIS L", длина 3,985м, толщ.20-47мм, шир.96-155мм, сорт ВР, Гост: 8486-86, объем без припусков 54,917м3 - вес: 34800 кг, кол. 59,61 м3, ; 2)22 мест;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>34800.0</Amount>
+      <QuantitySupUnit>59.61</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1)Лесоматериалы из х/п, обрезной, нестроганные, ель сибирская , длина 2,5-3,985м, толщ.29мм, шир.96-150мм, сорт ВР, Гост: 8486-86, объем без припусков 53,556м3 - вес: 29800 кг, кол. 57,46 м3, ; 2)17 мест;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>29800.0</Amount>
+      <QuantitySupUnit>57.46</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>717329e86af5202e81ebeb0782ddc5b4</ExprtData_ID>
+    <Consignee>
+      <Name>Раимов Даврон Бахром угли</Name>
+      <Adress>город Ташкент, Шайхантохурский район,</Adress>
+      <INN>546991383</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>20</BorderTrans_Code>
+      <InternalTrans_Code>20</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0012415</DocNumber>
+    <CustCode>27020</CustCode>
+    <DocDate>2017-09-07</DocDate>
+    <Place_of_inspection>27/0290 от 11.04.2015</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)Лесоматериалы из х/п, обрезной, нестроганные, сосна обыкновенная "PINUS SYLVESTRIS L", длина 4-6м, толщ.17-19мм, шир.90-100мм, сорт 1-4, Гост: 8486-86, объем без припусков 71,003м3 - вес: 67939 кг, кол. 78,72 м3, ; 2)14 мест;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>67939.0</Amount>
+      <QuantitySupUnit>78.72</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)Лесоматериалы из х/п, обрезной, нестроганные, сосна обыкновенная "PINUS SYLVESTRIS L", длина 3-5,4м, толщ.17-19мм, шир.90-125мм, сорт 1-4, Гост: 8486-86, объем без припусков 72,449м3 - вес: 67394 кг, кол. 78,09 м3, ; 2)20 мест;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>67394.0</Amount>
+      <QuantitySupUnit>78.09</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>58ae92354624880480e0806ca897615d</ExprtData_ID>
+    <Consignee>
+      <Name>Аликулов Бахтияр Холмуратович</Name>
+      <Adress>г.Ташкент, Алмазарский район ул Комилжон Гофуров-4 дом 13</Adress>
+      <INN>494116246</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>30</BorderTrans_Code>
+      <InternalTrans_Code>30</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0099902</DocNumber>
+    <CustCode>27019</CustCode>
+    <DocDate>2017-09-07</DocDate>
+    <Place_of_inspection>27/0305 от 13.09.2013</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)ЛЕСОМАТЕРИАЛЫ Х/П,ОБРЕЗНЫЕ, ДОСКИ ИЗ СОСНЫ ОБЫКНОВЕННАЯ (PINUS SYLVESTRIS L) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 5,42м3,ОБЪЁМ С ПРИПУСКАМИ 6,18м3 ГОСТ 8486-86, дл.6м.толш 38мм,шир.90-210мм сорт 1-4 - вес: 3880кг, кол. 6,18м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>3880.0</Amount>
+      <QuantitySupUnit>6.18</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1)ЛЕСОМАТЕРИАЛЫ Х/П,ОБРЕЗНЫЕ, ДОСКИ ИЗ СОСНЫ СИБИРСКОЙ (PINUS SIBIRICA) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 18,28м3,ОБЪЁМ С ПРИПУСКАМИ 20,93м3 ГОСТ 8486-86, дл.6м.толш 38мм,шир.110-190мм сорт 1-4 - вес:13127кг, кол.20,93м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>13127.0</Amount>
+      <QuantitySupUnit>20.93</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1)ЛЕСОМАТЕРИАЛЫ Х/П,ОБРЕЗНЫЕ ДОСКИ ИЗ ПИХТЫ СИБИРСКОЙ (ABIES SIBIRICA) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 2.91м3,ОБЪЁМ С ПРИПУСКАМИ 3.36м3 ГОСТ 8486-86, дл.6м.толш.38мм,шир 90мм,сорт 1-4 - вес: 2107кг, кол.3.36м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>2107.0</Amount>
+      <QuantitySupUnit>3.36</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1)ЛЕСОМАТЕРИАЛЫ Х/П,ОБРЕЗНЫЕ ДОСКИ ИЗ ЕЛИ СИБИРСКОЙ (PICEA OBOVATA) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 5,44м3,ОБЪЁМ С ПРИПУСКАМИ 6,30м3 ГОСТ 8486-86, дл.6м.толш.38мм,шир 110мм,сорт 1-4 - вес: 3952кг, кол.6,30м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>3952.0</Amount>
+      <QuantitySupUnit>6.3</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)ЛЕСОМАТЕРИАЛЫ Х/П,ОБРЕЗНЫЕ, ДОСКИ ИЗ СОСНЫ ОБЫКНОВЕННАЯ (PINUS SYLVESTRIS L) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 32,05м3,ОБЪЁМ С ПРИПУСКАМИ 36,78м3 ГОСТ 8486-86, дл.6м.толш 38мм,шир.90-210мм сорт 1-4 - вес: 23066кг, кол. 36,78м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>23066.0</Amount>
+      <QuantitySupUnit>36.78</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)ЛЕСОМАТЕРИАЛЫ Х/П,ОБРЕЗНЫЕ, ДОСКИ ИЗ СОСНЫ ОБЫКНОВЕННАЯ (PINUS SYLVESTRIS L) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 32,05м3,ОБЪЁМ С ПРИПУСКАМИ 36,78м3 ГОСТ 8486-86, дл.6м.толш 38мм,шир.90-210мм сорт 1-4 - вес: 23068кг, кол. 36,78м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>23068.0</Amount>
+      <QuantitySupUnit>36.78</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>6acf111d7364183d46f332016ae523c1</ExprtData_ID>
+    <Consignee>
+      <Name>Хотамов Мохиржон Мурод угли</Name>
+      <Adress>Ташкенткая обл.Зангиатинский р-н,Назарбек КФЙ,ул.Алока1,тупик,д.4</Adress>
+      <INN>575802737</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>20</BorderTrans_Code>
+      <InternalTrans_Code>20</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0012422</DocNumber>
+    <CustCode>27019</CustCode>
+    <DocDate>2017-09-08</DocDate>
+    <Place_of_inspection>27/0310 от 11.04.2015</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1)ЛЕСОМАТЕРИАЛЫ Х/П,ОБРЕЗНАЯ ДОСКА,ИЗ ЛИСТВЕНИЦЫ СИБИРСКОЙ (LARIX SIBIRICA) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 84,309м3,ОБЪЁМ С ПРИПУСКАМИ 90м3 ГОСТ 8486-86, дл.4.1м.толш.21-140мм,шир.90-140мм,сорт.1-4 - вес: 68700кг, кол. 90м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>68700.0</Amount>
+      <QuantitySupUnit>90.0</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)ЛЕСОМАТЕРИАЛЫ Х/П,ОБРЕЗНАЯ ДОСКА,ИЗ СОСНЫ ОБЫКНОВЕННОЙ (PINUS SYLVESTRIS L) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 92.86м3,ОБЪЁМ С ПРИПУСКАМИ 98.19м3 ГОСТ 8486-86, дл.4м.толш.34мм,шир.100-200мм,сорт.1-4 - вес: 62000кг, кол. 98.19м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>62000.0</Amount>
+      <QuantitySupUnit>98.19</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>6aa1f056c12e7aa2f69dcc43d36407a8</ExprtData_ID>
+    <Consignee>
+      <Name>Каримов Рузимбой Каландарович</Name>
+      <Adress>Республика Узбекистан,Хорезмская обл.,Ургенчский р/н,к/з.С.Каландаров бр.8 тел:+99893-742-88-02</Adress>
+      <INN>477004970</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>20</BorderTrans_Code>
+      <InternalTrans_Code>20</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0004310</DocNumber>
+    <CustCode>33007</CustCode>
+    <DocDate>2017-09-08</DocDate>
+    <Place_of_inspection>г.Ургенч,ул.Ханкинский,д.62/1</Place_of_inspection>
+    <Goods>
+      <HS_Code>4403203901</HS_Code>
+      <Name>1)Лесоматериалы круглые, хвойные пород без обработки консервантом,неокоренные, неокантованные(небрусованные)необработанные ,Сосна обыкновенная вида "РINUS SYLVESTRIS L",ГОСТ:9463-88,Сорт:1-3;2) часть штабеля</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>7270.0</Amount>
+      <QuantitySupUnit>10.15</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4403203101</HS_Code>
+      <Name>2)Лесоматериалы круглые, хвойные пород без обработки консервантом,неокоренные, неокантованные(небрусованные)необработанные ,Сосна обыкновенная вида "РINUS SYLVESTRIS L",ГОСТ:9463-88,Сорт:1-3,;2)2 штабеля;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>31388.0</Amount>
+      <QuantitySupUnit>44.01</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4403209901</HS_Code>
+      <Name>1)Лесоматериалы круглые, хвойные пород без обработки консервантом,неокоренные, неокантованные(небрусованные)необработанные ,Лиственница сибирская "LARIX SIBIRIGA",ГОСТ:9463-88,Сорт:1-3.;2)часть штабеля;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>4446.0</Amount>
+      <QuantitySupUnit>4.08</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4403209109</HS_Code>
+      <Name>1)Лесоматериалы круглые, хвойные пород без обработки консервантом,неокоренные, неокантованные(небрусованные)необработанные ,Лиственница сибирская "LARIX SIBIRIGA",ГОСТ:9463-88,Сорт:1-3.;2)часть штабеля;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>4752.0</Amount>
+      <QuantitySupUnit>4.37</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4403209901</HS_Code>
+      <Name>1)Лесоматериалы круглые, хвойные пород без обработки консервантом,неокоренные, неокантованные(небрусованные)необработанные ,Ель сибирская "PICEA OBOVATA",ГОСТ:9463-88,Сорт:1-3.;2)часть штабеля;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>2322.0</Amount>
+      <QuantitySupUnit>3.46</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4403209101</HS_Code>
+      <Name>1)Лесоматериалы круглые, хвойные пород без обработки консервантом,неокоренные, неокантованные(небрусованные)необработанные ,Ель сибирская "PICEA OBOVATA",ГОСТ:9463-88,Сорт:1-3.;2)часть штабеля;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>2322.0</Amount>
+      <QuantitySupUnit>3.45</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>d1743af08af58ce80931346f0a940b6e</ExprtData_ID>
+    <Consignee>
+      <Name>СП ООО "Пастдаргом Саховати"</Name>
+      <Adress>САМАРКАНДСКИЙ обл. ПАСТДАРГОМСКИЙ р-н., п. ЧАРХИН,ул.БЕРУНЫЙ 24, УЗБЕКИСТАН,, тел. +998662330523</Adress>
+      <INN>300703754</INN>
+      <OKPO>22243588</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>20</BorderTrans_Code>
+      <InternalTrans_Code>20</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0004554</DocNumber>
+    <CustCode>18007</CustCode>
+    <DocDate>2017-09-06</DocDate>
+    <Place_of_inspection>18/0109 от 03.05.2017</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109100</HS_Code>
+      <Name>1.ЛЕСОМАТЕРИАЛ ХВОЙНЫХ ПОРОД: ЕЛЬ ОБЫКНОВЕННАЯ - ДОСКА ОБРЕЗНАЯ, ГОСТ 8486-86, СОРТ 0-4, ДЛИНА- 6 м, ТОЛЩ 23;38 мм,ШИРИНА 90; 100;110;120;140;150;170;180; мм.2. ВСЕГО: 48 МЕСТО, 48 ПАКЕТОВ - 271,395 м3</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>182108.0</Amount>
+      <QuantitySupUnit>271.395</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>1c64c5d2c916b6c1e371694837b834fd</ExprtData_ID>
+    <Consignee>
+      <Name>Мамаджанов Бахтиёр Алимджонович</Name>
+      <Adress>г.Ташкент, ул.Сам.Дарбоза, пр.Турк-Шелк, дом 1.</Adress>
+      <INN>497751888</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>30</BorderTrans_Code>
+      <InternalTrans_Code>30</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0012462</DocNumber>
+    <CustCode>27019</CustCode>
+    <DocDate>2017-09-08</DocDate>
+    <Place_of_inspection>27/0294 от 24.06.2016</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)Лесоматериалы хвойный обрезной нестроганные сосна обыкновенная-(PINUS SYLVESTRIS L.) толщ.23-38мм, шир.90-190мм, дл.6м, Объем 4,74м3, с учетом припуска 5,37м3, ГОСТ8486-86, сорт 1-3. - вес: 3000 кг, кол. 5,37 м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>3000.0</Amount>
+      <QuantitySupUnit>5.37</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>80fcf451dda96877c4d0a34b0cd99c42</ExprtData_ID>
+    <Consignee>
+      <Name>Мамаджанов Бахтиёр Алимджонович</Name>
+      <Adress>г.Ташкент, ул.Сам.Дарбоза, пр.Турк-Шелк, дом 1.</Adress>
+      <INN>497751888</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>30</BorderTrans_Code>
+      <InternalTrans_Code>30</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0012463</DocNumber>
+    <CustCode>27019</CustCode>
+    <DocDate>2017-09-08</DocDate>
+    <Place_of_inspection>27/0294 от 24.06.2016</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)Лесоматериалы хвойный обрезной нестроганные сосна обыкновенная-(PINUS SYLVESTRIS L.) толщ.23-38мм, шир.90-190мм, дл.6м, Объем 27,76м3, с учетом припуска 31,48м3, ГОСТ8486-86, сорт 1-3. - вес: 17568 кг, кол. 31,48 м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>17568.0</Amount>
+      <QuantitySupUnit>31.48</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1)Лесоматериалы хвойный обрезной нестроганные лиственница сибирская-(LARIX SIBIRICA) толщ.38мм, шир.110-190мм, дл.6м, Объем 1,85м3, с учетом припуска 2,12м3, ГОСТ8486-86, сорт 1-3. - вес: 1632 кг, кол. 2,12 м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>1632.0</Amount>
+      <QuantitySupUnit>2.12</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>fa12295eb135caaa4e3032f16946a4e5</ExprtData_ID>
+    <Consignee>
+      <Name>Сагдуллаев Шерзод Нуруллаевич</Name>
+      <Adress>г.Ташкент, Учтепенский район,</Adress>
+      <INN>456335784</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>30</BorderTrans_Code>
+      <InternalTrans_Code>30</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0012432</DocNumber>
+    <CustCode>27019</CustCode>
+    <DocDate>2017-09-08</DocDate>
+    <Place_of_inspection>27/0310 от 11.04.2015</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)ПИЛОМАТЕРИАЛЫ Х/П,ОБРЕЗНАЯ ИЗ СОСНЫ ОБЫКНОВЕННОЙ (PINUS SYLVESTRIS L) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 31.46м3,ОБЪЁМ С ПРИПУСКАМИ 35.44м3 ГОСТ 8486-86, дл.6м.толш.23-150мм,шир.90-195мм,сорт.3 - вес: 19800 кг, кол. 35.44м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>19800.0</Amount>
+      <QuantitySupUnit>35.44</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)ПИЛОМАТЕРИАЛЫ Х/П,ОБРЕЗНАЯ ИЗ СОСНЫ ОБЫКНОВЕННОЙ (PINUS SYLVESTRIS L) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 31.46м3,ОБЪЁМ С ПРИПУСКАМИ 35.44м3 ГОСТ 8486-86, дл.6м.толш.23-150мм,шир.90-195мм,сорт.3 - вес: 19800 кг, кол. 35.44м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>19800.0</Amount>
+      <QuantitySupUnit>35.44</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1)ПИЛОМАТЕРИАЛЫ Х/П,ОБРЕЗНАЯ ИЗ СОСНЫ ОБЫКНОВЕННОЙ (PINUS SYLVESTRIS L) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 11,75м3,ОБЪЁМ С ПРИПУСКАМИ 12,82м3 ГОСТ 8486-86, дл.6м.толш.23-150мм,шир.90-195мм,сорт.3 - вес:6505кг, кол. 12,82м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>6505.0</Amount>
+      <QuantitySupUnit>12.82</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1)ПИЛОМАТЕРИАЛЫ Х/П,ОБРЕЗНАЯ ИЗ ЕЛЬ СИБИРСКАЯ (PICEA OBOVATA) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 7,91м3,ОБЪЁМ С ПРИПУСКАМИ 9,01м3 ГОСТ 8486-86, дл.6м.толш.33-40мм,шир.115-145мм,сорт.3 - вес:4505кг, кол.9,01м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>4505.0</Amount>
+      <QuantitySupUnit>9.01</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1)ПИЛОМАТЕРИАЛЫ Х/П,ОБРЕЗНАЯ ИЗ ЛИСТВЕННИЦЫ СИБИРСКАЯ (LARIX SIBIRICA) РАСПИЛЕННЫЕ ВДОЛЬ,НЕСТРОГАННЫЕ,НЕЛУЩЕННЫЕ/ОБЪЕМ БЕЗ ПРИПУСКА 11,80м3,ОБЪЁМ С ПРИПУСКАМИ 13,60м3 ГОСТ 8486-86, дл.6м.толш.33-40мм,шир.115-145мм,сорт.3 - вес: 8790кг, кол.13,60м3, ; 2)0 навалом;</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>8790.0</Amount>
+      <QuantitySupUnit>13.6</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+  <ImportData>
+    <ExprtData_ID>f6df83a0211f2f4550ef5bdf2cd08c6c</ExprtData_ID>
+    <Consignee>
+      <Name>Абдуллаев Одил Абдурашидович</Name>
+      <Adress>г.Наманган, ул. Туракурган, 3пр. д.6, кв.2</Adress>
+      <INN>601189450</INN>
+      <OKPO>00000001</OKPO>
+    </Consignee>
+    <Transport>
+      <BorderTrans_Code>30</BorderTrans_Code>
+      <InternalTrans_Code>30</InternalTrans_Code>
+    </Transport>
+    <Customs_Mode>40</Customs_Mode>
+    <DocNumber>0012441</DocNumber>
+    <CustCode>27019</CustCode>
+    <DocDate>2017-09-08</DocDate>
+    <Place_of_inspection>27/0294 от 24.06.2016г</Place_of_inspection>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1. ПИЛОМАТЕРИАЛЫ ОБРЕЗНЫЕ ХВОЙНЫХ ПОРОД ИЗ СОСНЫ ОБЫКНОВЕННОЙ, (PINUS SYLVESTRIS L), НЕСТРОГАННЫЕ, НЕЛУЩЕННЫЕ, НЕШЛИФОВАННЫЕ, НЕОБТЕСАННЫЕ, СОРТ 1-3, РАЗМЕРОМ: ДЛИНА 4-6 М. ТОЛ. 23-50 ММ, ШИР 95-220 ММ, ОБЬЕМ БЕЗ ПРИПУСКОВ 31,93 М3. С ПРИПУСКОМ 35,93 М3. ГОСТ: 8486-86, БРУТТО 21400 КГ, НЕТТО 21000 КГ-Вес 21000 кг. Кол. 35,93 м3 2. Навалом</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>21000.0</Amount>
+      <QuantitySupUnit>35.93</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109300</HS_Code>
+      <Name>1. ПИЛОМАТЕРИАЛЫ ОБРЕЗНЫЕ ХВОЙНЫХ ПОРОД ИЗ СОСНЫ ОБЫКНОВЕННОЙ, (PINUS SYLVESTRIS L), НЕСТРОГАННЫЕ, НЕЛУЩЕННЫЕ, НЕШЛИФОВАННЫЕ, НЕОБТЕСАННЫЕ, СОРТ 1-3, РАЗМЕРОМ: ДЛИНА 4-6 М. ТОЛ. 23-50 ММ, ШИР 95-220 ММ, ОБЬЕМ БЕЗ ПРИПУСКОВ 28,42 М3. С ПРИПУСКОМ 33,2 М3. ГОСТ: 8486-86, БРУТТО 20380 КГ, НЕТТО 19997 КГ-Вес 19997 кг. Кол. 33,2 м3 2. Навалом</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>19997.0</Amount>
+      <QuantitySupUnit>33.2</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1. ПИЛОМАТЕРИАЛЫ ОБРЕЗНЫЕ ХВОЙНЫХ ПОРОД ПИХТА СИБИРСКАЯ (ABIES SIBIRICA), НЕ СТРОГАННАЯ, НЕЛУЩЕНННЫЕ, НЕ ШЛИФОВАННЫЙ, НЕОБТЕСАННАЯ, СОРТ 1-3, РАЗМЕРОМ: ДЛИНА 6 М. ТОЛ. 50 ММ, ШИР 150-180 ММ, ОБЬЕМ БЕЗ ПРИПУСКОВ 2,4 М3. С ПРИПУСКОМ 2,73 М3. ГОСТ: 8486-86, БРУТТО 1020 КГ, НЕТТО 1000 КГ-Вес 1000 кг. Кол. 2,73 м3 2. Навалом</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>1000.0</Amount>
+      <QuantitySupUnit>2.73</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1. ПИЛОМАТЕРИАЛЫ ОБРЕЗНЫЕ ХВОЙНЫХ ПОРОД СОСНЫ СИБИРСКОЙ КЕДРОВАЯ (PINUS SIBIRICA), НЕ СТРОГАННАЯ, НЕЛУЩЕНННЫЕ, НЕ ШЛИФОВАННЫЙ, НЕОБТЕСАННАЯ, СОРТ 1-3, РАЗМЕРОМ: ДЛ. 6 М. ТОЛ. 38 ММ, ШИР. 180-200 МM, ОБЬЕМ БЕЗ ПРИПУСКОВ 26,76 М3. С ПРИПУСКОМ 30,49 М3. ГОСТ: 8486-86, БРУТТО 18427 КГ, НЕТТО 18082 КГ-Вес 18082 кг. Кол. 30,49 м3 2. Навалом</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>18082.0</Amount>
+      <QuantitySupUnit>30.49</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+    <Goods>
+      <HS_Code>4407109800</HS_Code>
+      <Name>1. ПИЛОМАТЕРИАЛЫ ОБРЕЗНЫЕ ХВОЙНЫХ ПОРОД ПИХТА СИБИРСКАЯ (ABIES SIBIRICA), НЕ СТРОГАННАЯ, НЕЛУЩЕНННЫЕ, НЕ ШЛИФОВАННЫЙ, НЕОБТЕСАННАЯ, СОРТ 1-3, РАЗМЕРОМ: ДЛИНА 6 М. ТОЛ. 50 ММ, ШИР 150-180 ММ, ОБЬЕМ БЕЗ ПРИПУСКОВ 4,85 М3. С ПРИПУСКОМ 5,45 М3. ГОСТ: 8486-86, БРУТТО 2973 КГ, НЕТТО 2918 КГ-Вес 2918 кг. Кол. 5,45 м3 2. Навалом</Name>
+      <CountryOrigin>000</CountryOrigin>
+      <UnitQuantityCode>113</UnitQuantityCode>
+      <Amount>2918.0</Amount>
+      <QuantitySupUnit>5.45</QuantitySupUnit>
+      <Quantity>0.0</Quantity>
+      <Edizm></Edizm>
+    </Goods>
+  </ImportData>
+</Info_Main>
+

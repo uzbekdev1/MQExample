@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQ.Demo", "MQ.Demo\MQ.Demo.csproj", "{2595A9C4-3E4B-497B-99D7-6C72C0BC8196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UzEx.TMQ", "UzEx.TMQ\UzEx.TMQ.csproj", "{125CDFA8-7D63-4B85-BBC7-8805A07FED7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2595A9C4-3E4B-497B-99D7-6C72C0BC8196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2595A9C4-3E4B-497B-99D7-6C72C0BC8196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2595A9C4-3E4B-497B-99D7-6C72C0BC8196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2595A9C4-3E4B-497B-99D7-6C72C0BC8196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125CDFA8-7D63-4B85-BBC7-8805A07FED7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125CDFA8-7D63-4B85-BBC7-8805A07FED7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125CDFA8-7D63-4B85-BBC7-8805A07FED7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125CDFA8-7D63-4B85-BBC7-8805A07FED7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
